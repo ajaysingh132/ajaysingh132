@@ -180,6 +180,16 @@
 - [ajaysingh132](https://github.com/ajaysingh132/ajaysingh132)
 
 **प्रारंभिक स्थिति:** विषय-आधारित वर्गीकरण; सक्रियता, डुप्लिकेट और वास्तविक सामग्री की जाँच बाकी।
+## प्राथमिक तीन परियोजनाओं के Project Hubs
+
+| परियोजना | मुख्य Hub | प्रारंभिक ऑडिट निष्कर्ष |
+|---|---|---|
+| AI Education & Digital Gurukul | [PROJECT_HUB.md](https://github.com/ajaysingh132/GBSBFORYOU-Digital-Gurukul-/blob/main/PROJECT_HUB.md) | README और root files देखे; PWA/शिक्षा मॉड्यूल वर्णित हैं; कोड व deployment audit बाकी। |
+| Digital Publishing | [PROJECT_HUB.md](https://github.com/ajaysingh132/gbsbforyou-publications/blob/main/PROJECT_HUB.md) | root में index.html, free-apis.html और vidyaguru-app/ है; README बहुत संक्षिप्त है; application audit बाकी। |
+| Banjara Research & Census | [PROJECT_HUB.md](https://github.com/ajaysingh132/banjara-census-mission/blob/main/PROJECT_HUB.md) | root में index.html और संक्षिप्त README है; तथ्य, स्रोत, कानूनी संदर्भ व डेटा audit बाकी। |
+
+**सीमा:** ये प्रथम-स्तर के repository audits हैं, पूर्ण code/security audits नहीं। संबंधित repositories को नाम के आधार पर provisional रूप में जोड़ा गया है; अभी कोई merge, rename, archive या deletion नहीं हुआ है।
+
 ## कार्यान्वयन के नियम
 
 1. मूल repositories और उनका Git history सुरक्षित रहेगा।
