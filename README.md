@@ -19,6 +19,11 @@ Hello! I work on accessible education, AI-assisted tools, publishing, Indic lang
 
 सभी GitHub repositories का प्रारंभिक विषयवार रजिस्टर: [PROJECT_REGISTRY.md](./PROJECT_REGISTRY.md)। इसमें मुख्य परियोजनाएँ, उनसे जुड़े source repositories और आगे के ऑडिट चरण दर्ज हैं।
 
+
+## Automated Completeness Audit
+
+हर दिन सार्वजनिक repositories की README, विवरण और HTML/Markdown के स्थानीय file references की जाँच होती है। नवीनतम रिपोर्ट: [AUTO_COMPLETENESS_REPORT.md](./AUTO_COMPLETENESS_REPORT.md)। यह स्वचालित जाँच संभावित कमियाँ बताती है; वास्तविक फीचर या कानूनी/शोध सामग्री मानव समीक्षा के बाद ही पूरी की जाएगी।
+
 ## GBSBFORYOU · Universal Project Dashboard
 
 > 🔄 This section is refreshed automatically from **public GitHub repositories** using GitHub Actions. Private repositories and unpublished projects are excluded.
