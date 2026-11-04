@@ -1,0 +1,41 @@
+name: GBSBFORYOU Repository Completeness Audit
+
+on:
+  schedule:
+    - cron: '43 2 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/audit_repositories.py'
+      - '.github/workflows/repository-audit.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repository-completeness-audit
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master registry
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Scan public repositories
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/audit_repositories.py
+      - name: Commit report when changed
+        run: |
+          if ! git diff --quiet -- AUTO_COMPLETENESS_REPORT.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add AUTO_COMPLETENESS_REPORT.md
+            git commit -m "chore: refresh repository completeness report"
+            git push
+          fi
