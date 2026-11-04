@@ -190,6 +190,18 @@
 
 **सीमा:** ये प्रथम-स्तर के repository audits हैं, पूर्ण code/security audits नहीं। संबंधित repositories को नाम के आधार पर provisional रूप में जोड़ा गया है; अभी कोई merge, rename, archive या deletion नहीं हुआ है।
 
+## Stage 2 — technical audit reports
+
+- [Digital Gurukul Audit Report](https://github.com/ajaysingh132/GBSBFORYOU-Digital-Gurukul-/blob/main/AUDIT_REPORT.md) — module links, PWA icon references and service-worker/offline claims need verification.
+- [Digital Publishing Audit Report](https://github.com/ajaysingh132/gbsbforyou-publications/blob/main/AUDIT_REPORT.md) — README documentation, API-key handling, API catalogue freshness and export/backup testing need review.
+- [Banjara Census Mission Audit Report](https://github.com/ajaysingh132/banjara-census-mission/blob/main/AUDIT_REPORT.md) — navigation references, project scope, source register and evidence standards need attention.
+
+## Shared Knowledge Base Standard
+
+[KNOWLEDGE_BASE_STANDARD.md](https://github.com/ajaysingh132/ajaysingh132/blob/main/KNOWLEDGE_BASE_STANDARD.md) defines common metadata fields, subject-specific fields, folder conventions, review statuses and safe integration rules.
+
+**Important:** The audits are based on visible root files and selected source files, not a full code/security audit. Broken links are flagged as potential until confirmed through live deployment tests. No source repositories were merged, renamed or deleted.
+
 ## कार्यान्वयन के नियम
 
 1. मूल repositories और उनका Git history सुरक्षित रहेगा।
