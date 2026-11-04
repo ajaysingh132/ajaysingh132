@@ -15,6 +15,10 @@ Hello! I work on accessible education, AI-assisted tools, publishing, Indic lang
 - 🌐 **Digital Platforms** — mobile-first software and web projects
 - 🤝 **Community Initiatives** — Banjara history, language and representation
 
+## GBSBFORYOU · Master Project Registry
+
+सभी GitHub repositories का प्रारंभिक विषयवार रजिस्टर: [PROJECT_REGISTRY.md](./PROJECT_REGISTRY.md)। इसमें मुख्य परियोजनाएँ, उनसे जुड़े source repositories और आगे के ऑडिट चरण दर्ज हैं।
+
 ## GBSBFORYOU · Universal Project Dashboard
 
 > 🔄 This section is refreshed automatically from **public GitHub repositories** using GitHub Actions. Private repositories and unpublished projects are excluded.
