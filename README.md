@@ -29,7 +29,7 @@ Hello! I work on accessible education, AI-assisted tools, publishing, Indic lang
 > 🔄 This section is refreshed automatically from **public GitHub repositories** using GitHub Actions. Private repositories and unpublished projects are excluded.
 
 <!-- AUTO-DASHBOARD:START -->
-**Public original repositories:** 126  ·  **Updated (UTC):** 2026-11-04 22:34
+**Public original repositories:** 127  ·  **Updated (UTC):** 2026-11-05 09:37
 
 ### Featured projects
 | Project | Description |
@@ -46,7 +46,11 @@ Hello! I work on accessible education, AI-assisted tools, publishing, Indic lang
 ### Recently active repositories
 | Repository | Language | Last push (UTC) |
 | --- | --- | --- |
-| [allnews](https://github.com/ajaysingh132/allnews) | TypeScript | 2026-11-04 |
+| [GBSBFORYOU-Universal-AutoPay-Manager](https://github.com/ajaysingh132/GBSBFORYOU-Universal-AutoPay-Manager) | JavaScript | 2026-11-05 |
+| [allnews](https://github.com/ajaysingh132/allnews) | TypeScript | 2026-11-05 |
+| [banjara-census-mission](https://github.com/ajaysingh132/banjara-census-mission) | HTML | 2026-11-04 |
+| [gbsbforyou-publications](https://github.com/ajaysingh132/gbsbforyou-publications) | JavaScript | 2026-11-04 |
+| [GBSBFORYOU-Digital-Gurukul-](https://github.com/ajaysingh132/GBSBFORYOU-Digital-Gurukul-) | HTML | 2026-11-04 |
 | [Vice-Cloning](https://github.com/ajaysingh132/Vice-Cloning) | HTML | 2026-10-30 |
 | [GBSBFORYOU-Interview-Master-Register](https://github.com/ajaysingh132/GBSBFORYOU-Interview-Master-Register) | HTML | 2026-10-26 |
 | [GBSBFORYOU-LIVE-Control-Dashboard](https://github.com/ajaysingh132/GBSBFORYOU-LIVE-Control-Dashboard) | HTML | 2026-10-25 |
@@ -57,10 +61,6 @@ Hello! I work on accessible education, AI-assisted tools, publishing, Indic lang
 | [gbsbforyou-research-](https://github.com/ajaysingh132/gbsbforyou-research-) | — | 2026-10-22 |
 | [Banjara-Language-Engine-BLE-v1.0](https://github.com/ajaysingh132/Banjara-Language-Engine-BLE-v1.0) | HTML | 2026-10-22 |
 | [gbsbforyou-digital-library](https://github.com/ajaysingh132/gbsbforyou-digital-library) | JavaScript | 2026-10-21 |
-| [Maa-Sharda-General-Market-Place-](https://github.com/ajaysingh132/Maa-Sharda-General-Market-Place-) | HTML | 2026-10-21 |
-| [Gbsbforyou-sikla](https://github.com/ajaysingh132/Gbsbforyou-sikla) | HTML | 2026-10-21 |
-| [-GBSBFORYOU-Universal-AI-Software-Factory](https://github.com/ajaysingh132/-GBSBFORYOU-Universal-AI-Software-Factory) | Python | 2026-10-19 |
-| [-hindi-news-analysis-platform](https://github.com/ajaysingh132/-hindi-news-analysis-platform) | HTML | 2026-10-18 |
 
 [Browse all public repositories](https://github.com/ajaysingh132?tab=repositories)
 <!-- AUTO-DASHBOARD:END -->
