@@ -29,7 +29,7 @@ Hello! I work on accessible education, AI-assisted tools, publishing, Indic lang
 > 🔄 This section is refreshed automatically from **public GitHub repositories** using GitHub Actions. Private repositories and unpublished projects are excluded.
 
 <!-- AUTO-DASHBOARD:START -->
-**Public original repositories:** 127  ·  **Updated (UTC):** 2026-11-21 09:56
+**Public original repositories:** 127  ·  **Updated (UTC):** 2026-11-22 09:54
 
 ### Featured projects
 | Project | Description |
@@ -46,7 +46,8 @@ Hello! I work on accessible education, AI-assisted tools, publishing, Indic lang
 ### Recently active repositories
 | Repository | Language | Last push (UTC) |
 | --- | --- | --- |
-| [allnews](https://github.com/ajaysingh132/allnews) | TypeScript | 2026-11-21 |
+| [allnews](https://github.com/ajaysingh132/allnews) | TypeScript | 2026-11-22 |
+| [New999](https://github.com/ajaysingh132/New999) | HTML | 2026-11-21 |
 | [GBSBFORYOU-Platform](https://github.com/ajaysingh132/GBSBFORYOU-Platform) | JavaScript | 2026-11-13 |
 | [GBSBFORYOU-Universal-AutoPay-Manager](https://github.com/ajaysingh132/GBSBFORYOU-Universal-AutoPay-Manager) | JavaScript | 2026-11-05 |
 | [banjara-census-mission](https://github.com/ajaysingh132/banjara-census-mission) | HTML | 2026-11-04 |
@@ -60,7 +61,6 @@ Hello! I work on accessible education, AI-assisted tools, publishing, Indic lang
 | [Samadhi-NST-gbsbforyou-gbsbforyou-](https://github.com/ajaysingh132/Samadhi-NST-gbsbforyou-gbsbforyou-) | HTML | 2026-10-23 |
 | [gbsbforyou-research-](https://github.com/ajaysingh132/gbsbforyou-research-) | — | 2026-10-22 |
 | [Banjara-Language-Engine-BLE-v1.0](https://github.com/ajaysingh132/Banjara-Language-Engine-BLE-v1.0) | HTML | 2026-10-22 |
-| [gbsbforyou-digital-library](https://github.com/ajaysingh132/gbsbforyou-digital-library) | JavaScript | 2026-10-21 |
 
 [Browse all public repositories](https://github.com/ajaysingh132?tab=repositories)
 <!-- AUTO-DASHBOARD:END -->
