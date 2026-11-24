@@ -29,7 +29,7 @@ Hello! I work on accessible education, AI-assisted tools, publishing, Indic lang
 > 🔄 This section is refreshed automatically from **public GitHub repositories** using GitHub Actions. Private repositories and unpublished projects are excluded.
 
 <!-- AUTO-DASHBOARD:START -->
-**Public original repositories:** 127  ·  **Updated (UTC):** 2026-11-23 10:54
+**Public original repositories:** 127  ·  **Updated (UTC):** 2026-11-24 12:37
 
 ### Featured projects
 | Project | Description |
@@ -46,7 +46,8 @@ Hello! I work on accessible education, AI-assisted tools, publishing, Indic lang
 ### Recently active repositories
 | Repository | Language | Last push (UTC) |
 | --- | --- | --- |
-| [allnews](https://github.com/ajaysingh132/allnews) | TypeScript | 2026-11-23 |
+| [allnews](https://github.com/ajaysingh132/allnews) | TypeScript | 2026-11-24 |
+| [GBSB-AI-Media-Studiosut](https://github.com/ajaysingh132/GBSB-AI-Media-Studiosut) | JavaScript | 2026-11-23 |
 | [New999](https://github.com/ajaysingh132/New999) | HTML | 2026-11-21 |
 | [GBSBFORYOU-Platform](https://github.com/ajaysingh132/GBSBFORYOU-Platform) | JavaScript | 2026-11-13 |
 | [GBSBFORYOU-Universal-AutoPay-Manager](https://github.com/ajaysingh132/GBSBFORYOU-Universal-AutoPay-Manager) | JavaScript | 2026-11-05 |
@@ -56,7 +57,6 @@ Hello! I work on accessible education, AI-assisted tools, publishing, Indic lang
 | [Vice-Cloning](https://github.com/ajaysingh132/Vice-Cloning) | HTML | 2026-10-30 |
 | [GBSBFORYOU-Interview-Master-Register](https://github.com/ajaysingh132/GBSBFORYOU-Interview-Master-Register) | HTML | 2026-10-26 |
 | [GBSBFORYOU-LIVE-Control-Dashboard](https://github.com/ajaysingh132/GBSBFORYOU-LIVE-Control-Dashboard) | HTML | 2026-10-25 |
-| [GBSB-AI-Media-Studiosut](https://github.com/ajaysingh132/GBSB-AI-Media-Studiosut) | JavaScript | 2026-10-25 |
 | [gbsbforyou-constitution](https://github.com/ajaysingh132/gbsbforyou-constitution) | HTML | 2026-10-23 |
 | [Samadhi-NST-gbsbforyou-gbsbforyou-](https://github.com/ajaysingh132/Samadhi-NST-gbsbforyou-gbsbforyou-) | HTML | 2026-10-23 |
 | [gbsbforyou-research-](https://github.com/ajaysingh132/gbsbforyou-research-) | — | 2026-10-22 |
