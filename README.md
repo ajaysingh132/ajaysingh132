@@ -29,7 +29,7 @@ Hello! I work on accessible education, AI-assisted tools, publishing, Indic lang
 > 🔄 This section is refreshed automatically from **public GitHub repositories** using GitHub Actions. Private repositories and unpublished projects are excluded.
 
 <!-- AUTO-DASHBOARD:START -->
-**Public original repositories:** 127  ·  **Updated (UTC):** 2026-11-26 11:02
+**Public original repositories:** 127  ·  **Updated (UTC):** 2026-11-27 10:59
 
 ### Featured projects
 | Project | Description |
@@ -46,7 +46,7 @@ Hello! I work on accessible education, AI-assisted tools, publishing, Indic lang
 ### Recently active repositories
 | Repository | Language | Last push (UTC) |
 | --- | --- | --- |
-| [allnews](https://github.com/ajaysingh132/allnews) | TypeScript | 2026-11-26 |
+| [allnews](https://github.com/ajaysingh132/allnews) | TypeScript | 2026-11-27 |
 | [GBSB-AI-Media-Studiosut](https://github.com/ajaysingh132/GBSB-AI-Media-Studiosut) | JavaScript | 2026-11-23 |
 | [New999](https://github.com/ajaysingh132/New999) | HTML | 2026-11-21 |
 | [GBSBFORYOU-Platform](https://github.com/ajaysingh132/GBSBFORYOU-Platform) | JavaScript | 2026-11-13 |
